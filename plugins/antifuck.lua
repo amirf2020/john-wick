@@ -1,4 +1,4 @@
--- By Mohamed_devt { @MD_IQ19 }
+-- By alfroshotak { @alfroshotak }
 
 -- how to use inside telegram --
 -- if you want to see fuck use this command /fuck lock
