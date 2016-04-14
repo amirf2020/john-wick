@@ -6,8 +6,8 @@
 --                                              --
 --------------------------------------------------
 --                                              --
---       Developers: @Josepdal & @MaSkAoS       --
---     Support: @Skneos,  @iicc1 & @serx666     --
+--       Developers: @alfroshotak @mamshotak     --
+--     Support: @ub_team,  @alphonse & @cewer    --
 --                                              --
 --------------------------------------------------
 
